@@ -1,0 +1,14 @@
+body {
+	margin: 0 auto;
+	background-color: #FF24;
+}
+
+div {
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+p {
+	padding-top: 50px;
+	font-size: 20px;
+}
