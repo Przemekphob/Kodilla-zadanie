@@ -1,0 +1,2 @@
+$ autoprefixer-cli -o style.prefixed.css style.css
+find -name \*.html -print0 | xargs nu-html-checker
