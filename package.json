@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Przemekphob/Kodilla-zadanie/issues"
   },
-  "homepage": "https://github.com/Przemekphob/Kodilla-zadanie#readme"
+  "homepage": "https://github.com/Przemekphob/Kodilla-zadanie#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.5"
+  }
 }
